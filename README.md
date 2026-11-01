@@ -2,7 +2,7 @@
 
 Repositório com os códigos e exercícios de introdução à Python do módulo do bootcamp **Bradesco - Agentes de IA do Zero a Prática**, da DIO.
 
-Este projeto reúne os materiais práticos das aulas iniciais, com foco em fundamentos da linguagem Python, estruturas lógicas e operações básicas que servem como base para desenvolvimento de agentes e automações com IA.
+Este projeto reúne os materiais práticos das aulas iniciais, com foco em fundamentos da linguagem Python, estruturas lógicas e operações básicas que servem como base para desenvolvimento de agentes de IA.
 
 ## Objetivo
 
@@ -15,6 +15,7 @@ Apresentar os conceitos essenciais da linguagem Python utilizados nos primeiros 
 - operadores;
 - estruturas condicionais;
 - estruturas de repetição;
+- manipulação de strings;
 - indentação e blocos de código.
 
 ## Estrutura do repositório
@@ -44,6 +45,13 @@ Apresentar os conceitos essenciais da linguagem Python utilizados nos primeiros 
   - `estrutura_repeticao_break.py`
   - `identacao_blocos.py`
   - `resumo_aula_estruturas_condicionais_e_repeticao.md`
+
+- [Manipulando Strings](./manipulando_strings/)
+  - `string_1.py` — transformação, limpeza e formatação de textos
+  - `string_2.py` — interpolação com `%`, `.format()` e f-strings
+  - `string_3.py` — indexação, slicing e inversão de strings
+  - `string_4.py` — strings multilinha e criação de textos formatados
+  - `README.md` — conceitos vistos em aula
 
 ## Como executar
 
